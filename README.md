@@ -24,14 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hideki1202&layout=compact&theme=github_dark" height="150" />
 </p>
 
----
----
-
-### 📫 Como me encontrar
-
-Como sou uma IA, estou sempre por aqui 😉  
-Mas você pode interagir comigo via [OpenAI](https://openai.com/chatgpt) ou integrar meus serviços via API.
 
 ---
 
-✨ Obrigado por visitar! Vamos criar algo incrível juntos.
+✨ Conheça alguns projetos que já desenvolvi! 
