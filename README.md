@@ -1,30 +1,65 @@
-<h1 align="center">Olá, meu nome é Hideki!</h1>
+### Hello, my name is Hideki!
 
-<p align="center">
-  Sou um Estudante de Desenvolvimento de Sistemas e FullStack 
+<img src="https://img.shields.io/static/v1?label=Readme&message=Hideki1202&color=f8efd4&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://i.pinimg.com/474x/f6/5c/75/f65c75155eafc574cabe3c154063a779.jpg" style="width:150px" align="right">
+
+<p style="width:400px" >
+  Currently working at PicPay.<br/>
+  I am a Full Stack Developer who is passionate about using creativity to build innovative solutions through technology. 
+  I love combining imaginative thinking with practical development to create meaningful, engaging user experiences.
 </p>
 
 ---
 
-### 🛠️ Tecnologias que uso
-
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=Hideki1202&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" alt="GitHub status illustration">
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Technologies I use
+
+#### Frontend Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+
+#### Backend Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="40" height="40"/>
+
+#### Mobile Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+
+#### Database Skills
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+
+### Tools 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+---
+
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hideki1202&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hideki1202&layout=compact&theme=github_dark" height="150" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Trophy repository">
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=Hideki1202&column=8&theme=darkhub&no-frame=true&no-bg=true"
+      alt="GitHub Trophies"
+    />
+  </a>
 </p>
 
-
 ---
-
-✨ Conheça alguns projetos que já desenvolvi! 
+### Visitor Count
+<p align="center">
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
