@@ -61,5 +61,5 @@
 ---
 ### Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/Hideki1202/count.svg" />
 </p>
